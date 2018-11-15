@@ -1,0 +1,1 @@
+LUA declaration files for Typescript
